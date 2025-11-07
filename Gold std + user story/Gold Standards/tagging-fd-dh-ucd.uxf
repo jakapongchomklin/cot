@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>738</x>
+      <y>297</y>
+      <w>54</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Admin</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>117</y>
+      <w>54</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;160.0;40.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>333</x>
+      <y>90</y>
+      <w>108</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Sign up for 
+an account
+IC1.1a</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>486</x>
+      <y>99</y>
+      <w>108</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Publish a
+data package
+IC1.1b, E2.2a, E2.6a</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>108</y>
+      <w>207</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;180.0;210.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>252</x>
+      <y>234</y>
+      <w>72</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Publisher</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>864</x>
+      <y>252</y>
+      <w>144</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Invite publishers 
+and  consumers to 
+join the site
+IC1.2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>774</x>
+      <y>279</y>
+      <w>108</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;60.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>603</x>
+      <y>135</y>
+      <w>171</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Import my data package
+into my account
+E2.1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>162</y>
+      <w>324</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;110.0;340.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>585</x>
+      <y>360</y>
+      <w>108</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Unpublish a 
+data package
+E2.3</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>432</x>
+      <y>360</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Permanently delete 
+a data package
+E2.4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>387</x>
+      <y>423</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Validate the data I
+am about to publish
+E2.5</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>288</x>
+      <y>396</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Tag a data 
+package
+E2.7a</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>279</y>
+      <w>225</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;230.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>306</x>
+      <y>288</y>
+      <w>144</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;140.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>315</y>
+      <w>45</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;30.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>126</x>
+      <y>198</y>
+      <w>162</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>160.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>144</x>
+      <y>369</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>See real examples
+of published packages
+E3.1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>207</x>
+      <y>630</y>
+      <w>72</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Consumer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>324</x>
+      <y>504</y>
+      <w>135</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Find/search data
+packages
+E2.7b, E3.2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>252</x>
+      <y>540</y>
+      <w>90</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;110.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>405</x>
+      <y>576</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>View a data
+package online
+E3.3</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>261</x>
+      <y>603</y>
+      <w>162</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;50.0;160.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>396</x>
+      <y>630</y>
+      <w>135</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Download the data
+package in one file
+E3.4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>252</x>
+      <y>639</y>
+      <w>162</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;160.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>378</x>
+      <y>702</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>View downloaded
+data package
+E3.5</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>252</x>
+      <y>666</y>
+      <w>144</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;140.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>900</x>
+      <y>333</y>
+      <w>144</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Set key configuration
+parameters
+E4.1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>774</x>
+      <y>324</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;140.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>900</x>
+      <y>405</y>
+      <w>144</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>See key metrics 
+about usage
+E4.2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>774</x>
+      <y>333</y>
+      <w>144</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;140.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>819</x>
+      <y>441</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Set a 
+pricing plan
+E4.3a</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>738</x>
+      <y>495</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Set a 
+billing system
+E4.3b</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>783</x>
+      <y>360</y>
+      <w>72</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;60.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>765</x>
+      <y>378</y>
+      <w>36</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;20.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>72</x>
+      <y>207</y>
+      <w>135</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Invite consumers 
+to my account
+E5.1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>243</x>
+      <y>315</y>
+      <w>54</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>40.0;10.0;10.0;65.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>306</x>
+      <y>306</y>
+      <w>126</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;120.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>63</x>
+      <y>279</y>
+      <w>144</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Remove someone 
+from membership
+E5.2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>198</x>
+      <y>297</y>
+      <w>81</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>70.0;20.0;10.0;25.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>171</x>
+      <y>747</y>
+      <w>99</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>See a 
+publisher's
+profile
+E5.4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>225</x>
+      <y>702</y>
+      <w>36</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>20.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>549</x>
+      <y>234</y>
+      <w>162</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Share data package
+publicly with everyone
+E2.2b</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>252</y>
+      <w>270</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;280.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>504</x>
+      <y>297</y>
+      <w>162</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Share data package
+with a few consumers
+E2.6b</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>297</x>
+      <y>288</y>
+      <w>306</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;320.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>108</x>
+      <y>567</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Refer to a
+data package
+E2.7c</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>198</x>
+      <y>594</y>
+      <w>45</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>30.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>657</x>
+      <y>459</y>
+      <w>99</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Charge users
+bg=green
+E4.3c</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>702</x>
+      <y>378</y>
+      <w>72</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>60.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+</diagram>
