@@ -1,5 +1,6 @@
 ## 1. Non cot prompt
 
+```
 I want to generate a class diagram from user stories.
 
 here are the user stories:
@@ -58,6 +59,7 @@ please identfy
 - relationships
 
 and please generate PUML for me
+```
 
 ## 2. A sample of PUML
 
