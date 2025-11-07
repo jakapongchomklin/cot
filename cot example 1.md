@@ -2,7 +2,7 @@
 
 ## 1. Prepare
 
-- Generate user stories.
+- Generate user stories if need. (from a source requirements)
 - Use them in step 2.
 
 ## 2. Template
